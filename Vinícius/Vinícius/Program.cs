@@ -8,7 +8,8 @@ namespace Vinícius
         {
             string nome;
             nome = "joao";
-            Console.WriteLine(nome);
+           string nome2 = "maria";
+            Console.WriteLine(nome,"é casado com:",nome2);
         }
     }
 }

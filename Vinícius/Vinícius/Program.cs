@@ -9,7 +9,9 @@ namespace Vinícius
             string nome;
             nome = "joao";
            string nome2 = "maria";
-            Console.WriteLine(nome,"é casado com:",nome2);
+            string filho = "José";
+            Console.WriteLine(nome, "é casado com:", nome2);
+            Console.WriteLine("e eles tem um filho que se chama: ", filho);
         }
     }
 }
